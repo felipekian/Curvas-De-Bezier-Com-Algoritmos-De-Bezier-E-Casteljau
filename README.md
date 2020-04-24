@@ -16,6 +16,9 @@ curva. Onde (n i) é o polinômio de Newton, e o parâmetro x varia de 0 a 1.
 
 ![](Imagens_markdown/polinomio_bernstein.png)
 
+## EXEMPLOS DE CURVA DE BÉZIER
+
+![](Imagens_markdown/exemplos_curvas_bezier.png)
 
 
 # ALGORITMO DE BÉZIER - RESULTADO
